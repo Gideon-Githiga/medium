@@ -87,7 +87,7 @@ button:hover {
 .first {
   height: 150px;
   width: 150px;
-  background-image: url("images/3.png");
+  background-image: url("3.png");
   background-size: cover;
   background-repeat: no-repeat;
   object-fit: contain;
@@ -100,7 +100,7 @@ button:hover {
 .end {
   height: 150px;
   width: 150px;
-  background-image: url("images/2.png");
+  background-image: url("2.png");
   background-size: cover;
   background-repeat: no-repeat;
   object-fit: contain;
